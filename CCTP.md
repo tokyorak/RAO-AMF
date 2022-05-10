@@ -278,4 +278,30 @@ Eléments à supprimer
 
 Le titulaire s'engage, après en avoir informé l'AMF, à détruire les documents ou données propriété de l'AMF et ayant servi à l'exécution des prestations du présent accord-cadre, et ce dans les conditions suivantes.
 
-A moins que, 
+A moins que, dans les trente (30) jours suivant l'expiration de l'accord-cadre, l'AMF n'ai donné au titulaire l'instruction écrite de les effacer ou de les détruire, le titulaire devra extraire toutes les données propriété de l'AMF ou pour lesquelles elle dispose des droits nécessaires, de ses systèmes et les transférer à l' AMF sur un support agréé par les parties.
+
+Assistance administrative et technique
+
+Pendant la période de six mois précédant la fin du contrat ou dans les six mois qui suivent la date de prononciation de la résiliation de l'accord-cadre, le titulaire assiste l'AMF en vue de l'obtention par cette dernière auprès des fournisseurs tiers du titulaire:
+* Des transferts de contrats de fournitures de bien et/ou services qui lui seraient nécessaires pour reprendre ou faire reprendre l'exécution des prestations confiées au titulaire
+* Le titulaire apporte à l'AMF ou à tout tiers désigné par cette dernière, son assistance technique, notamment par le transfert des informations nécessaires, pour faciliter la reprise des prestations (reprise de connaissance)
+
+L'assistance technique ne comprend pas la réalisation des opérations physiques ou logique de reprise
+
+Liste des livrables types
+
+* Mise à jour de la documentation: Dossier d'architecture applicative (DAA), dossier d'architecture technique (DAT), dossier d'installation (DII), dossier d'exploitation (DEX), livret d'accueil, dossier de spécifications et de conception fonctionnelles et technique, dictionnaire de données, cahier de recette, modélisation, contrats de liaisons applicatives, flux,...
+* Plan de progrès actualisé
+* Suivi des SLA et du plan de charge
+* Suivi de la qualité de la solution et des livrables produits par le titulaire
+* Bilan de réversibilité
+
+Autres informations
+
+Lors de l'activation de la phase de réversibilité, le titulaire décline le plan de réversibilité pré-établi lors des phase de MCO précédentes vers une nouvelle équipe désignée par l'AMF.
+
+Dans le cadre, le titulaire maintient toutes les compétences clefs pour produire les documentations nécessaires, livre l'ensemble des sources de l'application et des procédures d'exploitation, de supervision et garantit la continuité des prestations sans dégradation des niceaux de service. Le suivi d'avancement de l'opération de réversibilité dans la mesure d'efficacité du transfert dde compétences est à la charge du titulaire, sous contrôle de l'AMF.
+
+La phase de réversibilité, si déclenchée, s'effectue en parallèle de la phase nominale de MCO.
+
+Après l'exécution de l'opération de réversibilité, le titulaire ne garde aucun document, source ou donnée relatif à l'application.
