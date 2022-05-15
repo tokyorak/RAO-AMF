@@ -283,6 +283,7 @@ A moins que, dans les trente (30) jours suivant l'expiration de l'accord-cadre, 
 Assistance administrative et technique
 
 Pendant la période de six mois précédant la fin du contrat ou dans les six mois qui suivent la date de prononciation de la résiliation de l'accord-cadre, le titulaire assiste l'AMF en vue de l'obtention par cette dernière auprès des fournisseurs tiers du titulaire:
+
 * Des transferts de contrats de fournitures de bien et/ou services qui lui seraient nécessaires pour reprendre ou faire reprendre l'exécution des prestations confiées au titulaire
 * Le titulaire apporte à l'AMF ou à tout tiers désigné par cette dernière, son assistance technique, notamment par le transfert des informations nécessaires, pour faciliter la reprise des prestations (reprise de connaissance)
 

@@ -20,7 +20,7 @@ Designed for low code and high control
 * monitoring and login
 * hybrid connectivity to on-premise
 * secure
-* staging and devops 
+* staging and devops
 * headless integration logic onto your application
 * white label to change logos, colors and even some texts to present as your own brand and product
 * plans and subscriptions
