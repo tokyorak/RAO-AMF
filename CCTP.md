@@ -214,18 +214,18 @@ Prestation de réversibilité vers une nouvelle équipe (durée 2 mois à compte
 
 Le but de la réversibilité, pour tout ou partie des prestations est de permettre à l'AMF de reprendre sans difficulté, ou de faire reprendre par un tiers désigné par elle, la fourniture des prestation confiées au titulaire.
 
-Pour ce faire, il est demandé au titulaire de ne metrte en oeuvre que des matériels et des logiciels respectant les règles suivante:
+Pour ce faire, il est demandé au titulaire de ne mettre en oeuvre que des matériels et des logiciels respectant les règles suivante:
 
 * Version des logiciels maintenues au moins encore un an au moment du démarrage de la phase de VABF
-* Implantations tehcniques largement diffusées tant en France qu'à l'étranger
-* Solutions tehcniques non spécifiques et conformes aux règles de l'art
+* Implantations techniques largement diffusées tant en France qu'à l'étranger
+* Solutions techniques non spécifiques et conformes aux règles de l'art
 * Solutions portables qui doivent pouvoir être transférées, à ISO fonctionnalités, sur un autre site informatique conforme à l'état de l'art sans nécessité de modifier, ni l'environnement technique informatique, ni les procédures d'exploitation
 
 En cas d'expiration ou de résiliation de l'accord-cadre pour quelque motif que ce soit, le Titulaire s'engage à assurer les opérations qui permettront à l'AMF de reprendre ou de faire reprendre par un tiers(ci-après le "Tiers") les prestations dans les meilleures conditions et à éviter toute interruption de celles-ci.
 
 Le titulaire communique à l'AMF ou à un Tiers mandaté par elle, les informations qui lui sont nécessaires pour lui permettre de préparer et réaliser la réversibilité selon les délais suivants:
 
-* Dans les six mois précédans l'expiration de l'accord-cadre
+* Dans les six mois précédant l'expiration de l'accord-cadre
 * En cas de résiliation, dans le délai nécessaire à la réalisation de la réversibilité, défini au plan de réversibilité, et au plus tard six mois à compter de la date de prononcé de la résiliation.
 
 Le titulaire constituera ainsi parmi les personnes ayant participé aux prestations une équipe suffisante pour exécuter le processur de réversibilité. L'AMF mettra en place et dans le même temps, une équipe pour reprendre ou faire reprendre les prestations confiées au titulaire.
@@ -235,7 +235,7 @@ L'AMF a l'initiative du déclenchement de la réversibilité par l'émission d'u
 
 Cette date est distincte de la date prononcée de la résiliation ou de la date de fin de contrat.
 
-Lors du déclenchement, l'AMF notifie les options de réversibilité qu'elle veut voir exécuter pour le ou les sous-ensembles concernés, parmi celles qui sont proposées au plan de réversibilité. Elle notifie également la date de fin effective de la réversibilité si celle-ci est différente de la date contractuelle précue au plan de réversibilité.
+Lors du déclenchement, l'AMF notifie les options de réversibilité qu'elle veut voir exécuter pour le ou les sous-ensembles concernés, parmi celles qui sont proposées au plan de réversibilité. Elle notifie également la date de fin effective de la réversibilité si celle-ci est différente de la date contractuelle prévue au plan de réversibilité.
 
 La réversibilité est mise en oeuvre conformément au planning défini dans le plan de réversibilité. Il décrit:
 
@@ -256,7 +256,7 @@ Pendant la réversibilité, le titulaire assure le MCO de la solution.
 
 La réversibilité se déroulera en trois phases, elle dure 2 mois:
 
-* Maintien de la prestation MCO pour les incidents de production de la solution par le titulaire pendant la phse de transfert de connaissances. Le repreneur dispose d'un accès aux tickets d'incidents et est en copie des échanges avec l'AMF
+* Maintien de la prestation MCO pour les incidents de production de la solution par le titulaire pendant la phase de transfert de connaissances. Le repreneur dispose d'un accès aux tickets d'incidents et est en copie des échanges avec l'AMF
 * Fonctionnement à blanc (comme pour la phase précédente, sous la responsabilité du titulaire qui continue d'assurer la maintenance de la solution en production)
 * Transfert du MCO au repreneur qui traite les tickets et qui peut solliciter le support du titulaire
 
@@ -264,12 +264,12 @@ Le titulaire n'est dégagé de ses obligations au titre d'accord-cadre qu'après
 
 Eléments à transférer
 
-Pour la réversibilité le titulaire mettrea à la disposition de l'AMF
+Pour la réversibilité le titulaire mettra à la disposition de l'AMF
 
 * Les moyens matériels et/ou logiciels dont l'AMF est propriétaire
 * Les données ainsi que les fichiers et résultats des traitements applicatifs de l'AMF
 * Les éléments de reporting
-* toutes les documentations nécessaires au bon fonctionnement de la solution et trasfert de la gestion de la solution vers un tiers désigné par l'AMF (relatif aux environnements, configurations, composants applicatifs)
+* toutes les documentations nécessaires au bon fonctionnement de la solution et transfert de la gestion de la solution vers un tiers désigné par l'AMF (relatif aux environnements, configurations, composants applicatifs)
 * Toutes les documentations créés spécifiquement pour l'AMF pour l'exécution des prestations objet du présent accord-cadre
 
 L'AMF peut également demander au titulaire le transfert d'équipements du titulaire qui seraient dédiés à l'AMF. Ce transfert aurait lieu selon des conditions précisées lors d'un Comité de pilotage de la réversibilité
