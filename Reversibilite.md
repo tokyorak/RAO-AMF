@@ -90,3 +90,7 @@ Durant toutes les phases de la réversibilité, NORMASYS s'engage à maintenir t
 ### Compétences et expertises des intervenants affectés à la réalisation de cette prestation
 
 ### Charge prévisionnelle prévue par compétence
+
+|A|B|
+|---|---|
+|ceci est| un test|
