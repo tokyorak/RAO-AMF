@@ -75,8 +75,6 @@ Ce transfert est accompagné par le bilan de réversibilité.
 
 NORMASYS attend de la part de l'équipe CLIENT, une disponibilité et une réactivité pour les tâches de gouvernance, en particulier sur la validation des livrables.
 
-
-
 En cas de défaillance d'une prestation en place, NORMASYS dispose d'un mois pour proposer une expertise équivalente, validée et qualifiée par le chef d'équipe, à compter de la notification écrite de la défaillance de la prestation.
 
 On mesure le délai entre la notification écrite et la proposition commerciale du prestataire en jours.
@@ -85,14 +83,46 @@ Ce délai ne peut excéder 31 jours calendaires. La responsabilité de cet indic
 
 ## Descriptif du dispositif humain proposé pour réaliser la prestation
 
-Durant toutes les phases de la réversibilité, NORMASYS s'engage à maintenir toutes les compétences clés pour produire et finaliser les documentations 
+Durant toutes les phases de la réversibilité, NORMASYS s'engage à maintenir toutes les compétences clés pour produire et finaliser les documentations
 
 ### Compétences et expertises des intervenants affectés à la réalisation de cette prestation
 
-### Charge prévisionnelle prévue par compétence
+## Durée et Charge de la réversibilité
 
-|A|B|
-|---|---|
-|ceci est| un test|
-||blabla|
-|test 2| coucou|
+NORMASYS communiquera à l'équipe reprenante toutes les informations nécessaires à la reprise, donc permettant de préparer puis réaliser la réversibilité. Et ce dans les six mois précédant l'exiration de l'accord-cadre.
+
+Dans le cas d'une résiliation, les mêmes informations serons communiqués dans le délai nécessaire à la réalisation de la phase de réversibilité soit deux mois et au plus tard six mois à compter de la date de résiliation prononcée.
+
+La prestation de réversibilité débutera à la réception du bon de commande par NORMASYS et ce pour une durée de deux mois, pendant laquelle elle s'engage à maintenir toutes les compétences clés pour produire ou mettre à jour les documentations (DAA, DAT, DII, DEX, SFD, cahier de recette, modélisastion...), et à livrer les fichiers sources de l'application vers la nouvelle équipe. Tout en maintenant les SLA.
+
+Pendant la phase de réversibilité, NORMASYS assurera le maintien en conditions opérationnelles de la solution.
+
+On peut regrouper la prestation en 3 phases:
+
+* Maintien de la prestation de MCO pendant la phase de démarrage (1)
+  * Mise en place et suivi transversal
+  * Lancement de la prestation
+  * Début du transfert de connaissances
+* Fonctionnement à blanc (2)
+  * Bilan d'activités
+  * Finalisation du transfert de connaissances
+* Transfert du MCO au repreneur (3)
+  * Support à la phase probatoire
+
+On notera pour simplifier le tableau:
+
+* équipe 1: équipe technique NORMASYS
+* équipe 1 bis: équipe 1 + Manager opérationnel
+* équipe 2: équipe reprenante CLIENT (ou tiers sélectionné par LE CLIENT)
+
+|Phase|Sous-phase|Organisation|Durée|
+|---|---|---|---|
+|1|Mise en place et suivi transversal|équipes 1bis et 2|1 semaines|
+||Lancement de la phase de réversibilité|équipes 1 et 2|-|
+|2|Bilan d'activité|équipe 1bis|0.5 semaine|
+||Transfert de connaissances|équipes 1 et 2|7 semaines|
+|3|Support à la phase probatoire|équipe 1|~6 mois|
+
+Suite au transfert du MCO au repreneur, NORMASYS s'engage à un assistance administrative et technique pendant une période probatoire de 6 mois précédant la fin du contrat ou dans les 6 mois qui suivent la date de prononciation de la résiliation de l'accord-cadre. Et ce même pour les transferts de contrats de fourniture de biens et/ou services nécessaires pour la reprise des prestations.
+
+Après l'exécution de la prestation de réversibilité, NORMASYS ne gardera aucun document, souce ou données en quelconque relation à l'application.
