@@ -39,7 +39,7 @@ SFD,"Spécifications fonctionnelles détaillées"
 SLA,"Service-Level Agreement ou 'Entente de niveau de service', document qui définit la qualité de service, prestation prescrite entre un fournisseur de service et un client"
 SPServices,"Service Web pour SharePoint"
 SquashTM,"Outil de gestion de patrimoine de test"
-TdB,
+TdB, "Tableau de bord"
 TDD,"Test Driven Development, test unitaire de la fonctionnalité avant le développement"
 TMA,"Tierce Maintenance Applicative"
 Tomcat,"Serveur d'application, conteneur web de technologies java"
